@@ -31,5 +31,11 @@ body{
     img{
         width: 320px;
     }
-
+  
+     footer{
+       text-align: center;
+       margin: 10px;
+    font-size: 3rem;
+    color: rgb(208,214,218);
+   }
    
